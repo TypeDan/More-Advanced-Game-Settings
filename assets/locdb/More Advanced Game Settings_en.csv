@@ -1,7 +1,7 @@
 ID,Pipeline,PipelineStage,Notes,TranslationNotes,Tags,Text
 1,,,,Mod Title,,More Advanced Game Settings
-2,,,,Mod Page Description,,"More Advanced Game Settings is Daniel (TypeDan)'s modified version of Advanced Game Settings, originally created by Woprok and continued by Joshua Sachtleben. It adds further options and gameplay changes, including Empowered Queen, while retaining the original match customization features. Updated for Vikings and Scots, including civilization blueprints and age-based technologies. Source and feedback: https://github.com/TypeDan/More-Advanced-Game-Settings"
-3,,,,Mod Gamemode Description,,"Daniel (TypeDan)'s extended Advanced Game Settings: match rules, starting conditions, diplomacy, handicaps and Empowered Queen. Updated for Vikings and Scots. Based on the original by Woprok and its continuation by Joshua Sachtleben."
+2,,,,Mod Page Description,,"More Advanced Game Settings is Daniel (TypeDan)'s modified version of Advanced Game Settings, originally created by Zlatý Bludišťak and continued by Joshua Sachtleben. It adds further options and gameplay changes, including Empowered Queen, while retaining the original match customization features. Updated for Vikings and Scots, including civilization blueprints and age-based technologies. Source and feedback: https://github.com/TypeDan/More-Advanced-Game-Settings"
+3,,,,Mod Gamemode Description,,"Daniel (TypeDan)'s extended Advanced Game Settings: match rules, starting conditions, diplomacy, handicaps and Empowered Queen. Updated for Vikings and Scots. Based on the original by Zlatý Bludišťak and its continuation by Joshua Sachtleben."
 4,,,,Option Header,,Win Conditions
 5,,,,Annihilation Option,,Annihilation
 6,,,,Annihilation Option,,"Destroy all enemies. This option is required, unless you wish for player to be never eliminated even if he loses everything."
