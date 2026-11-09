@@ -16,6 +16,8 @@ Automated Lua checks pass for civilization lookups, all four technology ages and
 
 ## Play and build
 
+[Subscribe through the Age of Empires IV mod catalogue](https://www.ageofempires.com/mods/details/517773/), or search for **More Advanced Game Settings** by **TypeEkcyall** in the game. The existing listing was updated on 9 November 2026, retaining its subscribers and ratings.
+
 Download the `.sga` from [Releases](https://github.com/TypeDan/More-Advanced-Game-Settings/releases), and place it in a `More Advanced Game Settings` folder inside your AoE IV user-data `mods/extension/local` directory. Start a new game and select **More Advanced Game Settings** as the **game mode**. This is a game-mode mod; it does not require the Yuletide tuning pack. The optional Empowered Queen setting needs the separate Empowered Queen tuning pack for its queen blueprint.
 
 For source builds, open `More Advanced Game Settings.aoe4mod` in the AoE IV Content Editor and choose **Build Mod (F7)**. The archive is generated in `archives/`. Close the editor before launching the game on the Xbox/Store installation. Check that the intended local version is selected if you also subscribe to an edition sharing this mod ID.
