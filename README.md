@@ -2,7 +2,7 @@
 
 ![More Advanced Game Settings — Vikings and Scots](assets/mod.png)
 
-Daniel (TypeDan)'s modified edition of **Advanced Game Settings**, originally created by [Woprok](https://github.com/Woprok/AOE4-AdvancedGameSettings) and continued by [Joshua Sachtleben](https://github.com/joshuasachtleben/AOE4-AdvancedGameSettings). This edition retains their match customization system and adds further options and gameplay changes, including **Empowered Queen**.
+More options for match rules, starting conditions, diplomacy and handicaps, plus Empowered Queen. Updated for Vikings and Scots.
 
 ## Vikings and Scots compatibility
 
@@ -24,4 +24,4 @@ For source builds, open `More Advanced Game Settings.aoe4mod` in the AoE IV Cont
 
 ## Origin and changes
 
-The original project supplies features such as alternative starts, victory rules, diplomacy and handicaps. Daniel's edition adds Empowered Queen and the compatibility changes above. See [CREDITS.md](CREDITS.md), the retained source headers and [GPL-3.0 license](LICENSE.md). The new thumbnail is promotional illustration.
+Based on [Advanced Game Settings by Woprok](https://github.com/Woprok/AOE4-AdvancedGameSettings) and [Joshua Sachtleben’s continuation](https://github.com/joshuasachtleben/AOE4-AdvancedGameSettings). Adds Empowered Queen and the compatibility changes above. See [CREDITS.md](CREDITS.md), the retained source headers and [GPL-3.0 license](LICENSE.md). The new thumbnail is promotional illustration.
