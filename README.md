@@ -1,10 +1,12 @@
 # More Advanced Game Settings
 
+**Release version: 2026.11.19.1.** This label also appears at the start of the mod description.
+
 ![More Advanced Game Settings — Vikings and Scots](assets/mod.png)
 
 More options for match rules, starting conditions, diplomacy and handicaps, plus Empowered Queen. Updated for Vikings and Scots.
 
-**19 November build available on [GitHub Releases](https://github.com/TypeDan/More-Advanced-Game-Settings/releases/tag/v2026.11.19-settings).** The native build passed, and the shared settings passed a live Yuletide test. The AoE catalogue update is still pending. See [update status](docs/2026-11-19-update.md).
+**Version 2026.11.19.1 is available in the [AoE IV catalogue](https://www.ageofempires.com/mods/details/593824/) and on [GitHub Releases](https://github.com/TypeDan/More-Advanced-Game-Settings/releases/tag/v2026.11.19.1).** The description starts with the same release label. Native builds passed with zero errors/warnings; subscribed archives match these builds byte-for-byte. See [validation and coverage](docs/2026-11-19-update.md).
 
 The new source includes small text with no background or border just above the bottom-left resource box, with your applied Eco and Military boosts and the game's Pop limit stacked vertically. It appears only when custom bonuses or a custom cap apply. Pending boosts and actual/configured cap mismatches are amber.
 
@@ -20,7 +22,7 @@ Automated Lua checks pass for civilization lookups, all four technology ages and
 
 ## Play and build
 
-[Subscribe through the Age of Empires IV mod catalogue](https://www.ageofempires.com/mods/details/517773/), or search for **More Advanced Game Settings** by **TypeEkcyall** in the game. The existing listing was updated on 9 November 2026, retaining its subscribers and ratings.
+[Subscribe through the Age of Empires IV mod catalogue](https://www.ageofempires.com/mods/details/593824/), or search for **More Advanced Game Settings** by **TypeEkcyall** in the game. This is the replacement listing published on 19 November 2026; subscribe to this entry for the versioned release.
 
 Download the `.sga` from [Releases](https://github.com/TypeDan/More-Advanced-Game-Settings/releases), and place it in a `More Advanced Game Settings` folder inside your AoE IV user-data `mods/extension/local` directory. Start a new game and select **More Advanced Game Settings** as the **game mode**. This is a game-mode mod; it does not require the Yuletide tuning pack. The optional Empowered Queen setting needs the separate Empowered Queen tuning pack for its queen blueprint.
 
@@ -29,3 +31,7 @@ For source builds, open `More Advanced Game Settings.aoe4mod` in the AoE IV Cont
 ## Origin and changes
 
 Based on [Advanced Game Settings by Woprok](https://github.com/Woprok/AOE4-AdvancedGameSettings) and [Joshua Sachtleben’s continuation](https://github.com/joshuasachtleben/AOE4-AdvancedGameSettings). Adds Empowered Queen and the compatibility changes above. See [CREDITS.md](CREDITS.md), the retained source headers and [GPL-3.0 license](LICENSE.md). The new thumbnail is promotional illustration.
+
+## Release numbering
+
+Use `YYYY.MM.DD.N` in `VERSION`, the description entries (IDs 2 and 3) in `assets/locdb/*.csv`, and the GitHub release. Increase `N` for each further release that day. Set the label before the native F7 build, publish through the existing local project, then verify the store description and downloaded archive. The site's own version counter is separate from this release label. Keep project GUIDs and existing store listings when updating; deleting listings is not a normal update step.
