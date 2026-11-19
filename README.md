@@ -4,6 +4,10 @@
 
 More options for match rules, starting conditions, diplomacy and handicaps, plus Empowered Queen. Updated for Vikings and Scots.
 
+**19 November source changes are awaiting a native build and live validation.** See [update status](docs/2026-11-19-update.md). Published downloads have not changed.
+
+The new source includes small text with no background or border just above the bottom-left resource box, with your applied Eco and Military boosts and the game's Pop limit stacked vertically. It appears only when custom bonuses or a custom cap apply. Pending boosts and actual/configured cap mismatches are amber.
+
 ## Vikings and Scots compatibility
 
 Updated against Age of Empires IV **17.0.12260** on 9 November 2026:
