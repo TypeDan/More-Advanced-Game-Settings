@@ -11,11 +11,11 @@
 AGS_OBJECTIVES_TEAMSOLIDARITY = {
 	reason = AGS_WR_TEAM_SOLIDARITY,
 	-- Protect your teammates.
-	title = "$64c5019a145c4e4da448dbd3adeea61e:230", 
+	title = "$f9b793ede72b46e5b57c6a2f5e9a48ee:230", 
 	-- "Failed to protect %1PLAYER_NAME%."
-	title_lost = "$64c5019a145c4e4da448dbd3adeea61e:257",
+	title_lost = "$f9b793ede72b46e5b57c6a2f5e9a48ee:257",
 	-- "All other teams crumbled."
-	title_victory = "$64c5019a145c4e4da448dbd3adeea61e:258",
+	title_victory = "$f9b793ede72b46e5b57c6a2f5e9a48ee:258",
 	description = Loc_Empty(),
 	icon = "icons\\objectives\\objectives_generic",
 	data_template = DT_PRIMARY_DEFAULT,
@@ -28,6 +28,6 @@ AGS_OBJECTIVES_TEAMSOLIDARITY = {
 
 AGS_NOTIFICATIONS_TEAM_SOLIDARITY = {
 	-- "%1PLAYER_NAME% surrendered in solidarity with his teammate"
-	title = "$64c5019a145c4e4da448dbd3adeea61e:231",
+	title = "$f9b793ede72b46e5b57c6a2f5e9a48ee:231",
 	sfx = nil,	
 }

@@ -11,7 +11,7 @@
 AGS_OBJECTIVES_ANNIHILATION = {
 	reason = AGS_WR_ANNIHILATION,
 	-- "Annihilate everything."
-	title = "$64c5019a145c4e4da448dbd3adeea61e:259", 
+	title = "$f9b793ede72b46e5b57c6a2f5e9a48ee:259", 
 	description = Loc_Empty(),
 	icon = "icons\\objectives\\objectives_generic",
 	data_template = DT_PRIMARY_DEFAULT,

@@ -1,7 +1,7 @@
 ID,Pipeline,PipelineStage,Notes,TranslationNotes,Tags,Text
 1,,,,Mod Title,,More Advanced Game Settings
-2,,,,Mod Page Description,,"Version 2026.11.20.1. Population limits preserve normal housing requirements. Extra options for match rules, starting conditions, diplomacy and victory conditions, including Empowered Queen. Set economy bonuses, military bonuses and population limits for individual players, with small on-screen status text. Supports Vikings and Scots. Based on Advanced Game Settings by Zlaty Bludistak, continued by Joshua Sachtleben, with further options and fixes added here. Source and credits: https://github.com/TypeDan/More-Advanced-Game-Settings"
-3,,,,Mod Gamemode Description,,"Version 2026.11.20.1. Extra match settings, per-player economy and military bonuses, population limits, diplomacy and Empowered Queen. Supports Vikings and Scots."
+2,,,,Mod Page Description,,"Version 2026.11.27.1. Fixes missing text when played without the original Advanced Game Settings installed. Population limits preserve normal housing requirements. Extra options for match rules, starting conditions, diplomacy and victory conditions, including Empowered Queen. Set economy bonuses, military bonuses and population limits for individual players, with small on-screen status text. Supports Vikings and Scots. Based on Advanced Game Settings by Zlaty Bludistak, continued by Joshua Sachtleben, with further options and fixes added here. Source and credits: https://github.com/TypeDan/More-Advanced-Game-Settings"
+3,,,,Mod Gamemode Description,,"Version 2026.11.27.1. Extra match settings, per-player economy and military bonuses, population limits, diplomacy and Empowered Queen. Supports Vikings and Scots."
 4,,,,Option Header,,Win Conditions
 5,,,,Annihilation Option,,Annihilation
 6,,,,Annihilation Option,,"Destroy all enemies. This option is required, unless you wish for player to be never eliminated even if he loses everything."

@@ -1,0 +1,7 @@
+# Shared settings update - 2026.11.27.1
+
+Compared every shared SCAR script against Yuletide Raids v2026.11.27.1. Once each mod's localization namespace is normalized, the shared code is identical except a trailing newline and Yuletide's Christmas import. Population ceilings and house requirements, slot-specific economy/military modifiers, compact bonus HUD, civilization helpers and technology lists already match. No Christmas gameplay or tuning-pack dependency was copied.
+
+Corrected 72 inherited localization references from the original AGS namespace to this project's unchanged identity f9b793ede72b46e5b57c6a2f5e9a48ee. Added a localization regression covering 4,526 mod-owned references, including RDO descriptors; zero-namespace built-in strings are excluded. English keys exist inside this archive, removing dependence on another installed mod's text files. All four regression scripts pass, including all eight player slots, host/guest ordering, population ceilings with normal house growth/loss, boost application and the compact status display.
+
+Native Content Editor build succeeded with zero errors/warnings. Archive contains 111 entries; all 99 SCAR scripts are byte-for-byte equal to source, no original AGS namespace remains, and compiled English strings contain 2026.11.27.1. SHA256: a96b938ad9c54aef6e10c06677afeb7c4a2c23704f4ab31ef0e1eb03112b252b. Isolated game verification and publication pending.

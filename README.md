@@ -1,10 +1,12 @@
 # More Advanced Game Settings
 
-**Release version: 2026.11.20.1.** This label also appears at the start of the mod description.
+**Prepared version: 2026.11.27.1; publication pending.** This label also appears at the start of the mod description.
 
 ![More Advanced Game Settings — Vikings and Scots](assets/mod.png)
 
 More options for match rules, starting conditions, diplomacy and handicaps, plus Empowered Queen. Updated for Vikings and Scots.
+
+**Version 2026.11.27.1** brings across Yuletide's shared localization fix: 72 inherited references now use this mod's own text files. The shared population, economy, military and civilization code already matches Yuletide. Christmas mechanics remain specific to Yuletide.
 
 **Version 2026.11.20.1** fixes custom population limits granting all housing immediately. A configured maximum of 250 now preserves normal house requirements. See [validation and coverage](docs/2026-11-20-housing-update.md).
 
