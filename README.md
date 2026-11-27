@@ -2,6 +2,8 @@
 
 **Published version: 2026.11.27.1.** This label also appears at the start of the mod description.
 
+**Prepared update: 2026.11.27.2 (not yet built or published).** Clearer lobby groups, related controls together, and explicit starting-housing versus population-limit labels. See [menu changes and validation](docs/2026-11-27-lobby-layout.md).
+
 ![More Advanced Game Settings — Vikings and Scots](assets/mod.png)
 
 More options for match rules, starting conditions, diplomacy and handicaps, plus Empowered Queen. Updated for Vikings and Scots.
