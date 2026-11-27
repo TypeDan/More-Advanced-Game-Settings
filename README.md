@@ -1,8 +1,8 @@
 # More Advanced Game Settings
 
-**Published version: 2026.11.27.1.** This label also appears at the start of the mod description.
+**Published version: 2026.11.27.3.** This label also appears at the start of the mod description.
 
-**GitHub release: 2026.11.27.2; AoE publication verification pending.** Clearer lobby groups, related controls together, and explicit starting-housing versus population-limit labels. See [menu changes and validation](docs/2026-11-27-lobby-layout.md).
+**GitHub and AoE release: 2026.11.27.3.** Clearer lobby groups, related controls together, and explicit starting-housing versus population-limit labels. See [menu changes and validation](docs/2026-11-27-lobby-layout.md).
 
 ![More Advanced Game Settings — Vikings and Scots](assets/mod.png)
 
@@ -26,7 +26,7 @@ Automated Lua checks pass for civilization lookups, all four technology ages and
 
 ## Play and build
 
-[Subscribe through the Age of Empires IV mod catalogue](https://www.ageofempires.com/mods/details/604300/), or search for **More Advanced Game Settings** by **TypeEkcyall** in the game. This is the replacement listing published on 27 November 2026; subscribe to this entry and check for version **2026.11.27.1** in the description. The former listing 593850 was removed after the new publication was verified.
+[Subscribe through the Age of Empires IV mod catalogue](https://www.ageofempires.com/mods/details/604308/), or search for **More Advanced Game Settings** by **TypeEkcyall** in the game. This is the replacement listing published on 27 November 2026; subscribe to this entry and check for version **2026.11.27.3** in the description. The former listing 593850 was removed after the new publication was verified.
 
 Download the `.sga` from [Releases](https://github.com/TypeDan/More-Advanced-Game-Settings/releases), and place it in a `More Advanced Game Settings` folder inside your AoE IV user-data `mods/extension/local` directory. Start a new game and select **More Advanced Game Settings** as the **game mode**. This is a game-mode mod; it does not require the Yuletide tuning pack. The optional Empowered Queen setting needs the separate Empowered Queen tuning pack for its queen blueprint.
 
